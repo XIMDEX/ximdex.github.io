@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Javi Carretero -- Lead Developer -- @betacontinua
+    Antonio García -- Senior Developer -- @agbarrachina
+    Pablo Martín -- Senior Developer -- @edipotrebol
+    Elena Ramírez -- Lead Designer -- @lenatwitteada
+
+# THANKS
+
+    HTML5 Boilerplate dev team
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
