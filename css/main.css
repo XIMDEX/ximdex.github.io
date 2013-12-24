@@ -97,21 +97,39 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.headline {
 
+}
 
+.headline > h1 {
 
+}
 
+.headline > p {
 
+}
 
+.projects {
+    
+}
 
+.projects > .project {
+    border-left: 5px solid green;
+    margin-bottom: 2em;
+    padding-left: 0.5em;
+}
 
+.projects > .project > .title {
 
+}
 
+.projects > .project > .title > a {
 
+}
 
+.projects > .project > .desc {
 
-
-
+}
 
 /* ==========================================================================
    Helper classes
